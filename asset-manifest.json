@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saline-Monitoring-Project-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Saline-Monitoring-Project-Website/static/js/main.49b98899.js",
+    "static/js/787.c1f2c9e3.chunk.js": "/Saline-Monitoring-Project-Website/static/js/787.c1f2c9e3.chunk.js",
+    "index.html": "/Saline-Monitoring-Project-Website/index.html",
+    "main.073c9b0a.css.map": "/Saline-Monitoring-Project-Website/static/css/main.073c9b0a.css.map",
+    "main.49b98899.js.map": "/Saline-Monitoring-Project-Website/static/js/main.49b98899.js.map",
+    "787.c1f2c9e3.chunk.js.map": "/Saline-Monitoring-Project-Website/static/js/787.c1f2c9e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49b98899.js"
+  ]
+}
